@@ -35,5 +35,5 @@ This is my toolkit for turning raw data into insights.
 
 I am actively building my Data Engineering portfolio and am always open to connecting and discussing data engineering and analytics challenges.
 
-* **LinkedIn:** [[https://www.linkedin.com/in/joveson/](https://www.linkedin.com/in/joveson/)
+* **LinkedIn:** [https://www.linkedin.com/in/joveson/](https://www.linkedin.com/in/joveson/)
 * **Email:** jovesoncruzcosta@gmail.com
