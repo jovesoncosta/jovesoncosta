@@ -31,23 +31,9 @@ This is my toolkit for turning raw data into insights.
 
 ---
 
-### 🚀 My Featured Projects
-
-* **[GitHub Pulse: Real-Time Streaming Pipeline](https://github.com/YOUR-USERNAME/YOUR-GITHUB-PULSE-REPO)**
-    * **Description:** My engineering transition project. An end-to-end pipeline that ingests, processes, and stores GitHub API events in real-time.
-    * **Stack:** Kafka, Spark Streaming, Airflow, and Docker.
-    * **What I did:** Designed the decoupled (producer/consumer) architecture, configured the Spark job for ETL (flattening complex JSONs), and orchestrated the ingestion with Airflow.
-
-* **[Sales Analytics Project (BI)](https://github.com/YOUR-USERNAME/YOUR-BI-REPO)**
-    * **Description:** An interactive dashboard focused on sales KPIs, featuring ETL and data modeling to support executive decision-making.
-    * **Stack:** Power BI, SQL Server.
-    * **What I did:** Developed the ETL process in Power Query, created the dimensional model (star schema), and built the final dashboards.
-
----
-
 ### 📫 How to Reach Me
 
 I am actively building my Data Engineering portfolio and am always open to connecting and discussing data engineering and analytics challenges.
 
-* **LinkedIn:** [linkedin.com/in/YOUR-PROFILE](https://linkedin.com/in/YOUR-PROFILE)
-* **Email:** your.email@gmail.com
+* **LinkedIn:** [[linkedin.com/in/YOUR-PROFILE](https://linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/joveson/))
+* **Email:** jovesoncruzcosta@gmail.com
